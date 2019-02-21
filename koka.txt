@@ -1,2 +1,5 @@
 this is done in github.
 it whas to be thr in local by using push command
+
+
+febraury 20 2019
